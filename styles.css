@@ -1,0 +1,35 @@
+#title {
+    margin-bottom: 10px;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#image {
+    width: 90vw;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+#img-caption {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin: auto;
+}
